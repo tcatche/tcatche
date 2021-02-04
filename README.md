@@ -7,8 +7,15 @@
 - 🌱 Currently working in Chengdu, China.
 - ⭐ [我的笔记](https://tcatche.site/)
 
+### Langs and Frameworks
+<img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+<img height=60px src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg">
+<img height=60px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+<img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+<img height=60px src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"> 
 
-#### latest works and langs stats
+### Latest works and langs stats
 ![Tcatche's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcatche&show_icons=true&theme=flag-india)
 
 ---
