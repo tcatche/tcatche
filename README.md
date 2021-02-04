@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello Everyone 👋
+---
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-<!--
-**tcatche/tcatche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Tcatche
 
-Here are some ideas to get you started:
+- A Frontend develop Engineering.
+- 🌱 Currently working in Chengdu, China.
+- ⚡ Fun fact: Data Analysis📊
+- [我的笔记](https://tcatche.site/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 关于我
+
+![Tcatche's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcatche&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
