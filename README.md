@@ -11,22 +11,24 @@
 <table>
 <tbody>
 <tr>
-  <td align="center" width="50%">
+  <td align="center" width="33%">
     <img height=60px src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"> 
   </td>
-  <td align="center" width="50%">
+  <td align="center" width="33%">
     <img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"> 
   </td>
-  <td align="center" width="50%">
+  <td align="center" width="33%">
     <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
   </td>
-  <td align="center" width="50%">
+</tr>
+<tr>
+  <td align="center" width="33%">
     <img height=60px src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg">
   </td>
-  <td align="center" width="50%">
+  <td align="center" width="33%">
     <img height=60px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
   </td>
-  <td align="center" width="50%">
+  <td align="center" width="33%">
     <img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
   </td>
 </tr>
