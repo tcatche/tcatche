@@ -7,44 +7,48 @@
 - 🌱 Currently working in Chengdu, China.
 - ⭐ [我的笔记](https://tcatche.site/)
 
-### Languages and Frameworks
+
+### Develop skills
+
 <table>
 <tbody>
 <tr>
   <td align="center" width="33%">
-    <img height=60px src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"> 
+    <img height=40px src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"> 
   </td>
   <td align="center" width="33%">
-    <img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"> 
+    <img height=40px src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"> 
   </td>
   <td align="center" width="33%">
-    <img height=60px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
-    <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-  </td>
-  <td align="center" width="33%">
-    <img height=60px src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg">
-  </td>
-  <td align="center" width="33%">
-    <img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+    <img height=40px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
   </td>
 </tr>
 <tr>
   <td align="center" width="33%">
-    <img height=60px src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg">
+    <img height=40px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
   </td>
   <td align="center" width="33%">
-    <img height=60px src="https://www.vectorlogo.zone/logos/lesscss/lesscss-ar21.svg">
+    <img height=40px src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg">
   </td>
   <td align="center" width="33%">
-    <img height=60px src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg">
+    <img height=40px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
+    <img height=40px src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg">
+  </td>
+  <td align="center" width="33%">
+    <img height=40px src="https://www.vectorlogo.zone/logos/lesscss/lesscss-ar21.svg">
+  </td>
+  <td align="center" width="33%">
+    <img height=40px src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg">
   </td>
 </tr>
 </tbody>
 </table>
+
+
 
 ### Latest works and langs stats
 ![Tcatche's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcatche&show_icons=true&theme=flag-india)
