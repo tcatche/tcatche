@@ -48,7 +48,6 @@
 <a href="https://github.com/tcatche">
 <img src="https://img.shields.io/badge/webstorm-000000.svg?style=for-the-badge&logo=webstorm&labelColor=ffffff&logoColor=000000" alt="webstorm">
 </a>
-<a href="https://github.com/tcatche"><img src="https://img.shields.io/badge/vim-darkgreen.svg?style=for-the-badge&logo=vim&logoColor=darkgreen&labelColor=ffffff" alt="vim"></a>
 <a href="https://github.com/tcatche"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
 <a href="https://github.com/tcatche"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
 <a href="https://github.com/tcatche">
